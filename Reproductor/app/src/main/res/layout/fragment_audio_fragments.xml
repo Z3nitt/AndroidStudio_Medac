@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AudioFragments"
+    android:background="@drawable/gradiente">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_gravity="center">
+        <Spinner
+            android:id="@+id/selector"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp"/>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:gravity="center">
+
+            <TextView
+                android:id="@+id/tvReproductorMusica"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="20dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:gravity="center"
+                android:layout_gravity="center_vertical"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp">
+            <TextView
+                android:id="@+id/tvTiempoTranscurrido"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:textStyle="bold"
+                android:textColor="@color/black"/>
+
+            <SeekBar
+                android:id="@+id/sbBarraReprod"
+                android:layout_width="122dp"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:id="@+id/tvTiempoTotal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:textStyle="bold"
+                android:textColor="@color/black"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+        <ImageButton
+            android:contentDescription="Rewind"
+            android:src="@drawable/rewindicon"
+            android:id="@+id/btnRewind"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:background="@drawable/shape"
+            android:backgroundTint="@color/gris_cian"/>
+        <ImageButton
+            android:src="@drawable/pauseicon"
+            android:contentDescription="Pause"
+            android:layout_marginLeft="10dp"
+            android:id="@+id/btnPause"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:background="@drawable/shape"
+            android:backgroundTint="@color/gris_cian"/>
+        <ImageButton
+            android:src="@drawable/playicon"
+            android:contentDescription="Play"
+            android:layout_marginLeft="10dp"
+            android:id="@+id/btnPlay"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:background="@drawable/shape"
+            android:backgroundTint="@color/gris_cian"/>
+        <ImageButton
+            android:src="@drawable/forwardicon"
+            android:contentDescription="Forward"
+            android:layout_marginLeft="10dp"
+            android:id="@+id/btnForward"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:background="@drawable/shape"
+            android:backgroundTint="@color/gris_cian"/>
+        </LinearLayout>
+        <ImageButton
+            android:id="@+id/btnFav"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:background="@drawable/shape"
+            android:layout_marginTop="20dp"
+            android:src="@drawable/iconofav"
+            android:contentDescription="Fav"
+            android:backgroundTint="@color/gris_cian"/>
+
+    </LinearLayout>
+
+
+</FrameLayout>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gris">#80a0a0a0</color>
+    <color name="titulos">#80DAD8C9</color>
+    <color name="noRiesgo">#0bff00</color>
+    <color name="riesgoBajo">#fff500</color>
+    <color name="riesgoMedio">#ffac00</color>
+    <color name="riesgoAlto">#ff0000</color>
+</resources>

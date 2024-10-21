@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:stretchColumns="0,1,2,3"
+    tools:context=".MainActivity">
+
+    <TableRow
+        android:gravity="center">
+        <TextView android:text="Cabecera"
+            android:layout_gravity="center"
+            android:textStyle="bold"/>
+    </TableRow>
+     <TableRow
+         android:background="@color/azul"
+         android:gravity="center">
+         <TextView android:text="Nombre"
+             android:textStyle="bold"
+             android:gravity="center"/>
+         <TextView android:text="Dpto"
+             android:textStyle="bold"
+             android:gravity="center"/>
+         <TextView android:text="Ciudad"
+             android:textStyle="bold"
+             android:gravity="center"/>
+         <TextView android:text="Porcentaje"
+             android:textStyle="bold"
+             android:gravity="center"/>
+     </TableRow>
+    <TableRow
+        android:background="@color/gris"
+        android:gravity="center">
+        <TextView android:text="Antonio"
+            android:gravity="center"/>
+        <TextView android:text="Math"
+            android:gravity="center"/>
+        <TextView android:text="Málaga"
+            android:gravity="center"/>
+        <TextView android:text="30"
+            android:id="@+id/casilla1"
+            android:gravity="center"/>
+    </TableRow>
+    <TableRow>
+        <TextView android:text="Juan"
+            android:gravity="center"/>
+        <TextView android:text="Lengua"
+            android:gravity="center"/>
+        <TextView android:text="Cádiz"android:gravity="center"/>
+        <TextView android:text="60"
+            android:id="@+id/casilla2"android:gravity="center"/>
+    </TableRow>
+    <TableRow
+        android:background="@color/gris">
+        <TextView android:text="Silvia"android:gravity="center"/>
+        <TextView android:text="Historia"android:gravity="center"/>
+        <TextView android:text="Granada"android:gravity="center"/>
+        <TextView android:text="25"
+            android:id="@+id/casilla3"android:gravity="center"/>
+    </TableRow>
+    <TableRow>
+        <TextView android:text="Pedro"android:gravity="center"/>
+        <TextView android:text="Tech"android:gravity="center"/>
+        <TextView android:text="Sevilla"android:gravity="center"/>
+        <TextView android:text="10"
+            android:id="@+id/casilla4"android:gravity="center"/>
+    </TableRow>
+    <TableRow
+        android:background="@color/gris">
+        <TextView android:text="Elena"android:gravity="center"/>
+        <TextView android:text="Math"android:gravity="center"/>
+        <TextView android:text="Jaén"android:gravity="center"/>
+        <TextView android:text="25"
+            android:id="@+id/casilla5"android:gravity="center"/>
+    </TableRow>
+    <TableRow>
+        <TextView android:text="Marcos"android:gravity="center"/>
+        <TextView android:text="Lengua"android:gravity="center"/>
+        <TextView android:text="Málaga"android:gravity="center"/>
+        <TextView android:text="35"
+            android:id="@+id/casilla6"android:gravity="center"/>
+    </TableRow>
+    <TableRow
+        android:background="@color/gris"
+        android:gravity="center">
+        <TextView android:text="Luis"android:gravity="center"/>
+        <TextView android:text="Lengua"android:gravity="center"/>
+        <TextView android:text="Madrid"android:gravity="center"/>
+        <TextView android:text="55"
+            android:id="@+id/casilla7"android:gravity="center"/>
+    </TableRow>
+    <TableRow>
+        <TextView android:text="Miguel"android:gravity="center"/>
+        <TextView android:text="Math"android:gravity="center"/>
+        <TextView android:text="Granada"android:gravity="center"/>
+        <TextView android:text="56"
+            android:id="@+id/casilla8"android:gravity="center"/>
+    </TableRow>
+    <TableRow
+        android:background="@color/gris">
+        <TextView android:text="Francisco"android:gravity="center"/>
+        <TextView android:text="Historia"android:gravity="center"/>
+        <TextView android:text="Málaga"android:gravity="center"/>
+        <TextView android:text="85"
+            android:id="@+id/casilla9"android:gravity="center"/>
+    </TableRow>
+    <TableRow>
+        <TextView android:text="Pedro"android:gravity="center"/>
+        <TextView android:text="Tech"android:gravity="center"/>
+        <TextView android:text="Sevilla"android:gravity="center"/>
+        <TextView android:text="26"
+            android:id="@+id/casilla10"android:gravity="center"/>
+    </TableRow>
+    <TableRow
+        android:layout_marginTop="70dp"
+        android:gravity="center"
+        >
+        <TextView android:text="RESULTADO"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:id="@+id/resultado"/>
+    </TableRow>
+
+    <TextView android:text="sexo"
+        android:layout_marginTop="390dp"
+        android:layout_marginLeft="370dp"
+        android:gravity="center"
+        android:textSize="5sp"/>
+
+
+
+
+    </TableLayout>
+
+
+
+
+

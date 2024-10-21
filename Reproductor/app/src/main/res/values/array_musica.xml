@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_musica">
+        <item>The Trooper - IronMaiden</item>
+        <item>Batman - Opening</item>
+        <item>Dragon Ball - Opening</item>
+        <item>Knocking on heavens door - Guns n Roses</item>
+        <item>La vereda de la puerta de atrás - Extremoduro</item>
+    </string-array>
+</resources>
