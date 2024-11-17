@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">691819728068</string>
+    <string name="google_api_key" translatable="false">AIzaSyCagpPjSS4SnOgjMVt427ZnL-5jNH2j25I</string>
+    <string name="google_app_id" translatable="false">1:691819728068:android:48fa105f4d5d03deb84d91</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCagpPjSS4SnOgjMVt427ZnL-5jNH2j25I</string>
+    <string name="google_storage_bucket" translatable="false">pruebaandroidstudio-acda3.appspot.com</string>
+    <string name="project_id" translatable="false">pruebaandroidstudio-acda3</string>
+</resources>

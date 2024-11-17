@@ -22,7 +22,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textSize="18sp"
-            android:textColor="#000" />
+            android:textColor="@color/black" />
     </LinearLayout>
 
     <TextView
@@ -30,6 +30,6 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="14sp"
-        android:textColor="#555" />
+        android:textColor="@color/black" />
 
 </LinearLayout>

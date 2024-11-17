@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "com.example.dragonballtapgame.app-debug-32:/drawable_logo.png.flat",
+        "source": "com.example.dragonballtapgame.app-main-34:/drawable/logo.png"
+    },
+    {
+        "merged": "com.example.dragonballtapgame.app-debug-32:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.dragonballtapgame.app-main-34:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.dragonballtapgame.app-debug-32:/drawable_gokugif.gif.flat",
+        "source": "com.example.dragonballtapgame.app-main-34:/drawable/gokugif.gif"
+    },
+    {
+        "merged": "com.example.dragonballtapgame.app-debug-32:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.dragonballtapgame.app-main-34:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.dragonballtapgame.app-debug-32:/layout_activity_koscreen.xml.flat",
+        "source": "com.example.dragonballtapgame.app-main-34:/layout/activity_koscreen.xml"
+    },
+    {
+        "merged": "com.example.dragonballtapgame.app-debug-32:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.dragonballtapgame.app-main-34:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.dragonballtapgame.app-debug-32:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.dragonballtapgame.app-main-34:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.dragonballtapgame.app-debug-32:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.dragonballtapgame.app-main-34:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.dragonballtapgame.app-debug-32:/raw_cancionjuego.mp3.flat",
+        "source": "com.example.dragonballtapgame.app-main-34:/raw/cancionjuego.mp3"
+    },
+    {
+        "merged": "com.example.dragonballtapgame.app-debug-32:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.dragonballtapgame.app-main-34:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.dragonballtapgame.app-debug-32:/drawable_iconoapp.png.flat",
+        "source": "com.example.dragonballtapgame.app-main-34:/drawable/iconoapp.png"
+    },
+    {
+        "merged": "com.example.dragonballtapgame.app-debug-32:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.dragonballtapgame.app-main-34:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.dragonballtapgame.app-debug-32:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.dragonballtapgame.app-main-34:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.dragonballtapgame.app-debug-32:/raw_selectorpj.mp3.flat",
+        "source": "com.example.dragonballtapgame.app-main-34:/raw/selectorpj.mp3"
+    },
+    {
+        "merged": "com.example.dragonballtapgame.app-debug-32:/raw_audiovegeta.mp3.flat",
+        "source": "com.example.dragonballtapgame.app-main-34:/raw/audiovegeta.mp3"
+    },
+    {
+        "merged": "com.example.dragonballtapgame.app-debug-32:/drawable_gokuwin.gif.flat",
+        "source": "com.example.dragonballtapgame.app-main-34:/drawable/gokuwin.gif"
+    },
+    {
+        "merged": "com.example.dragonballtapgame.app-debug-32:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.dragonballtapgame.app-main-34:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.dragonballtapgame.app-debug-32:/drawable_vegetagif.gif.flat",
+        "source": "com.example.dragonballtapgame.app-main-34:/drawable/vegetagif.gif"
+    },
+    {
+        "merged": "com.example.dragonballtapgame.app-debug-32:/drawable_vegeta.png.flat",
+        "source": "com.example.dragonballtapgame.app-main-34:/drawable/vegeta.png"
+    },
+    {
+        "merged": "com.example.dragonballtapgame.app-debug-32:/drawable_vegetawin.gif.flat",
+        "source": "com.example.dragonballtapgame.app-main-34:/drawable/vegetawin.gif"
+    },
+    {
+        "merged": "com.example.dragonballtapgame.app-debug-32:/drawable_bckselector.jpg.flat",
+        "source": "com.example.dragonballtapgame.app-main-34:/drawable/bckselector.jpg"
+    },
+    {
+        "merged": "com.example.dragonballtapgame.app-debug-32:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.dragonballtapgame.app-main-34:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.dragonballtapgame.app-debug-32:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.dragonballtapgame.app-main-34:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.dragonballtapgame.app-debug-32:/layout_activity_juego.xml.flat",
+        "source": "com.example.dragonballtapgame.app-main-34:/layout/activity_juego.xml"
+    },
+    {
+        "merged": "com.example.dragonballtapgame.app-debug-32:/drawable_borde.xml.flat",
+        "source": "com.example.dragonballtapgame.app-main-34:/drawable/borde.xml"
+    },
+    {
+        "merged": "com.example.dragonballtapgame.app-debug-32:/drawable_goku.png.flat",
+        "source": "com.example.dragonballtapgame.app-main-34:/drawable/goku.png"
+    },
+    {
+        "merged": "com.example.dragonballtapgame.app-debug-32:/drawable_pantallalogin.jpg.flat",
+        "source": "com.example.dragonballtapgame.app-main-34:/drawable/pantallalogin.jpg"
+    },
+    {
+        "merged": "com.example.dragonballtapgame.app-debug-32:/raw_audiogoku.mp3.flat",
+        "source": "com.example.dragonballtapgame.app-main-34:/raw/audiogoku.mp3"
+    },
+    {
+        "merged": "com.example.dragonballtapgame.app-debug-32:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.dragonballtapgame.app-main-34:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.dragonballtapgame.app-debug-32:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.dragonballtapgame.app-main-34:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.dragonballtapgame.app-debug-32:/drawable_gradiente.xml.flat",
+        "source": "com.example.dragonballtapgame.app-main-34:/drawable/gradiente.xml"
+    },
+    {
+        "merged": "com.example.dragonballtapgame.app-debug-32:/font_fuenteletra.ttf.flat",
+        "source": "com.example.dragonballtapgame.app-main-34:/font/fuenteletra.ttf"
+    },
+    {
+        "merged": "com.example.dragonballtapgame.app-debug-32:/raw_menuprinc.mp3.flat",
+        "source": "com.example.dragonballtapgame.app-main-34:/raw/menuprinc.mp3"
+    },
+    {
+        "merged": "com.example.dragonballtapgame.app-debug-32:/layout_activity_main.xml.flat",
+        "source": "com.example.dragonballtapgame.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.dragonballtapgame.app-debug-32:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.dragonballtapgame.app-main-34:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.dragonballtapgame.app-debug-32:/xml_backup_rules.xml.flat",
+        "source": "com.example.dragonballtapgame.app-main-34:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.dragonballtapgame.app-debug-32:/layout_activity_selector_pj.xml.flat",
+        "source": "com.example.dragonballtapgame.app-main-34:/layout/activity_selector_pj.xml"
+    },
+    {
+        "merged": "com.example.dragonballtapgame.app-debug-32:/layout_activity_splash_screen.xml.flat",
+        "source": "com.example.dragonballtapgame.app-main-34:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "com.example.dragonballtapgame.app-debug-32:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.dragonballtapgame.app-main-34:/mipmap-xxhdpi/ic_launcher.webp"
+    }
+]
